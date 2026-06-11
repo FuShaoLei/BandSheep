@@ -1,0 +1,29 @@
+html {
+  font-size: 16px;
+}
+
+html, body, #app {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #414243;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #5a5b5c;
+}

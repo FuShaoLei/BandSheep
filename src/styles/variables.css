@@ -1,0 +1,20 @@
+:root {
+  --font-mono: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace;
+  --font-sans: system-ui, -apple-system, 'Segoe UI', sans-serif;
+}
+
+html.dark {
+  --el-color-primary: #409eff;
+  --el-bg-color: #141414;
+  --el-bg-color-page: #0a0a0a;
+  --el-text-color-primary: #e5eaf3;
+  --el-text-color-regular: #cfd3dc;
+  --el-text-color-secondary: #a3a6ad;
+  --el-border-color: #414243;
+  --el-border-color-light: #414243;
+  --el-fill-color: #262727;
+  --el-fill-color-light: #1d1d1d;
+  --el-fill-color-lighter: #191919;
+  --el-fill-color-blank: #141414;
+  --el-bg-color-overlay: #1d1e1f;
+}
